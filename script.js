@@ -28,7 +28,7 @@ document.addEventListener('DOMContentLoaded', () => {
             if (!firstClick) {
                 // Se o botão "Não" foi clicado antes do "Sim"
                 if (noClickedBeforeYes) {
-                    showRetryButton('Me fala no zap o dia princesa, mas atualiza a página e clica em sim primeiro c=');
+                    showRetryButton('Me fala no zap o dia do zoologico princesa, mas atualiza a página e clica em sim primeiro c=');
                 } else {
                     showRetryButton('Muito fácil, era pra ser dificil lembra ? assim não da graça de te conquistar =P');
                 }
